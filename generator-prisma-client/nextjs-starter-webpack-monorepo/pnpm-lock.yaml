@@ -39,8 +39,8 @@ importers:
         version: 3.25.67
     devDependencies:
       '@types/node':
-        specifier: 22.15.32
-        version: 22.15.32
+        specifier: 22.16.0
+        version: 22.16.0
       '@types/react':
         specifier: 19.1.8
         version: 19.1.8
@@ -76,8 +76,8 @@ importers:
         version: 8.16.2
     devDependencies:
       '@types/node':
-        specifier: 22.15.32
-        version: 22.15.32
+        specifier: 22.16.0
+        version: 22.16.0
       '@types/pg':
         specifier: ^8.15.4
         version: 8.15.4
@@ -880,8 +880,8 @@ packages:
     resolution: {integrity: sha512-dRLjCWHYg4oaA77cxO64oO+7JwCwnIzkZPdrrC71jQmQtlhM556pwKo5bUzqvZndkVbeFLIIi+9TC40JNF5hNQ==}
     dev: true
 
-  /@types/node@22.15.32:
-    resolution: {integrity: sha512-3jigKqgSjsH6gYZv2nEsqdXfZqIFGAV36XYYjf9KGZ3PSG+IhLecqPnI310RvjutyMwifE2hhhNEklOUrvx/wA==}
+  /@types/node@22.16.0:
+    resolution: {integrity: sha512-B2egV9wALML1JCpv3VQoQ+yesQKAmNMBIAY7OteVrikcOcAkWm+dGL6qpeCktPjAv6N1JLnhbNiqS35UpFyBsQ==}
     dependencies:
       undici-types: 6.21.0
     dev: true
@@ -889,7 +889,7 @@ packages:
   /@types/pg@8.15.4:
     resolution: {integrity: sha512-I6UNVBAoYbvuWkkU3oosC8yxqH21f4/Jc4DK71JLG3dT2mdlGe1z+ep/LQGXaKaOgcvUrsQoPRqfgtMcvZiJhg==}
     dependencies:
-      '@types/node': 22.15.32
+      '@types/node': 22.16.0
       pg-protocol: 1.10.2
       pg-types: 2.2.0
     dev: true
