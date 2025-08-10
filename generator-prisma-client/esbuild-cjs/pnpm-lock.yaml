@@ -20,8 +20,8 @@ dependencies:
 
 devDependencies:
   '@types/node':
-    specifier: 18.19.117
-    version: 18.19.117
+    specifier: 18.19.122
+    version: 18.19.122
   dotenv:
     specifier: 17.1.0
     version: 17.1.0
@@ -375,8 +375,8 @@ packages:
     dependencies:
       '@prisma/debug': 6.12.0-dev.19
 
-  /@types/node@18.19.117:
-    resolution: {integrity: sha512-hcxGs9TfQGghOM8atpRT+bBMUX7V8WosdYt98bQ59wUToJck55eCOlemJ+0FpOZOQw5ff7LSi9+IO56KvYEFyQ==}
+  /@types/node@18.19.122:
+    resolution: {integrity: sha512-yzegtT82dwTNEe/9y+CM8cgb42WrUfMMCg2QqSddzO1J6uPmBD7qKCZ7dOHZP2Yrpm/kb0eqdNMn2MUyEiqBmA==}
     dependencies:
       undici-types: 5.26.5
     dev: true
